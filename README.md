@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20ROK&fontSize=90)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=WELCOME&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=I'm%20ByeongRok%20as%20FreeStyle%20Developer&descAlignY=70)
 
-<h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
+<h3 align="center">🎮 Github Stats 🎮</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrokket&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
