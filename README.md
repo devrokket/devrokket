@@ -1,5 +1,3 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=WELCOME&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=I'm%20ByeongRok%20as%20FreeStyle%20Developer&descAlignY=70)
-
 <h3 align="center">🏡 Blog Address 🏡</h3>
 <p align="center">
 https://medium.com/@rockminpr
